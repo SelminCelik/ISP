@@ -105,6 +105,7 @@ height: 200px;
 
 .menu li {
   float: right;
+  display:block;
 }
 
 .menu li a {
