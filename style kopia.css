@@ -1,0 +1,75 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+.w3-content w3-sectio{
+	max-width: auto; 
+	background-position: center center; 
+}
+
+#filmer{
+	font-family: 'Lobster', sans-serif; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+    background-color: #696969; /*#BC8F8F;*/
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 26px 28px;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+    background-color: #C0C0C0;
+}
+.wrapper{
+  background-color: white;
+  width: 80%; 
+  margin-left: auto;
+  margin-right: auto; 
+  height: 10000px; 
+  border: 1px solid silver;
+}
+.mySlides{
+  width: 100%; 
+}
+body{
+  height: 15000px; 
+  background-color: #F5F5F5; 
+}
+
+img {
+	width: 100%;
+}
+.circle {
+    border-radius: 5%;
+    -moz-border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -o-border-radius: 5%;
+}
+.section-2{
+	display: inline-block;
+	float: left;
+	width: 50%;
+	bottom: 100%; 
+}
+body{
+	height: 3000000000px; 
+}
